@@ -1,0 +1,11 @@
+* {
+    list-style: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+
+.content_area {
+    max-width: 1200px;
+    margin: 0 auto;
+}
